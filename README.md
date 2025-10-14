@@ -9,7 +9,7 @@ With a Master’s degree in **Robotics Systems Engineering from RWTH Aachen Univ
 ### What I Do
 - **Robotics & Autonomy:** SLAM, sensor fusion (EKF, IMU, LiDAR, vision), motion planning, and system integration on embedded platforms (Jetson, Raspberry Pi).  
 - **Computer Vision & AI:** Object detection, semantic segmentation, and generative models (CycleGAN, domain adaptation).  
-- **Software & DevOps:** Python, C++, ROS1/2, OpenCV, PyTorch, TensorFlow, Docker, Kubernetes, and AWS.  
+- **Software & DevOps:** Python, ROS1/2, C++, OpenCV, PyTorch, TensorFlow, Docker, Kubernetes, and AWS.  
 - **End-to-End Ownership:** From algorithm design and prototyping to real-world deployment and performance optimization.  
 
 ---
