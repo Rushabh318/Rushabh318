@@ -28,7 +28,7 @@ I love working in environments where experimentation meets execution - where ide
 ---
 
 ### 📫 Get in Touch
-💼 [LinkedIn](https://linkedin.com/in/rushabh-jain)  
+💼 [LinkedIn](https://www.linkedin.com/in/rushabh-jain-950153102/)  
 
 ---
 
