@@ -1,9 +1,5 @@
 # 👋 Hi, I’m Rushabh Jain
 
-I’m a Robotics and Computer Vision Engineer turned Product Owner - passionate about building intelligent systems that bridge the gap between perception, autonomy, and real-world impact.  
-
-With a Master’s degree in **Robotics Systems Engineering from RWTH Aachen University** and hands-on experience leading cross-functional teams at **AICI GmbH**, I’ve spent the last few years developing and deploying **autonomous robotics systems**, **deep learning pipelines**, and **sensor fusion frameworks** for real-time perception and navigation.
-
 ---
 
 ### What I Do
