@@ -17,8 +17,7 @@ I love working in environments where experimentation meets execution - where ide
 ---
 
 ### Currently
-- Leading product development for autonomous mobile robots at **AICI GmbH**, Munich.  
-- Exploring new challenges in **robotics, spatial AI, and real-world autonomy**, particularly in Berlin.  
+- Bringing real robots to real shop floors at RoboService GmbH, Belrin.  
 - Open to collaborations in **robotics software, perception systems, and applied AI research**.
 
 ---
